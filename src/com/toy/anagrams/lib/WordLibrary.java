@@ -38,6 +38,9 @@ public abstract class WordLibrary {
     /**
      * Constructor for subclasses.
      */
+    
+    // Brendan Watson
+    // added a minor change
     protected WordLibrary() {
     }
     
